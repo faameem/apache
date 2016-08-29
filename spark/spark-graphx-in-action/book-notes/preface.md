@@ -1,0 +1,40 @@
+# Preface #
+- Graph = edges + vertices
+- Chart = axes with tick marks
+- Graph applications:
+	- Rooting out terrorist networks on Twitter.
+	- Fraud detection in credit card transactions.
+- When embarking on prototyping graph solutions, try GraphX first.
+- Spark cluster can be spun off in cloud such as with Databricks or Amazon.
+- GraphX prerequisites:
+	- Apache Spark [in-memory distributed computing framework]
+	- Scala
+	- Graphs
+- Scala concise introduction:
+	- Chapter 3
+	- Scala tips
+	- Appendix D
+- Version used: Spark/GraphX 1.6
+- Two main methods of implementing custom GraphX algorithms:
+	- Map/Reduce
+	- Pregel
+- Machine Learning
+	- Supervised
+	- semi-supervised
+	- unsupervised
+- Tools complementing GraphX
+	- Apache Zeppelin
+		- Interactive notebook shell with inline visualization of graphs.
+	- Spark JobServer
+		- Convert GraphX from a batch graph processing system to an online database.
+	- GraphFrames
+		- Uses Spark SQL Frames instead of RDDs to query graphs. It is developed by some developers of GraphX.
+	- Gephi
+		- Visualization software [appendex B]
+- About the Code
+	- For the most part, the code presented in this book and available for download is intended to be used with the interactive Spark shell (can't be compiled with the scalac compiler).
+	- Some examples are meant to be conventionally compiled and executed, and these are always accompanied by a pom.xml for Maven or by a .sbt for sbt (Simple Build Tool).
+- About the Authors
+	- [Michael Malak blog](http://technicaltidbit.com)
+	- [Robin East blog](https://mlspeed.wordpress.com)
+
