@@ -1,5 +1,6 @@
 The Data Science and Engineering with Spark XSeries
-+ Created in partnership with Databricks.
++ University of California, Berkeley
++ Partnership with Databricks.
 + Teach students how to perform data science and data engineering at scale using Spark.
 
 Spark
@@ -11,4 +12,21 @@ Data Analysis Pipeline
 + Supervised learning
 + Model evaluation.
 
+PySpark
++ Python API for Spark
 
+Prerequisites
++ Basic machine learning concepts and exposure to algorithms
++ Linear algebra
++ Calculus
+
+Instructors
++ Anthony D. Joseph
+    - Professor in Electrical Engineering and Computer Science
+    - University of California, Berkeley
++ Ameet Talwalkar
+    - Assistant Professor of Computer Science
+    - University of California, Los Angeles
++ Jon Bates
+    - Spark Instructor
+    - Databricks
