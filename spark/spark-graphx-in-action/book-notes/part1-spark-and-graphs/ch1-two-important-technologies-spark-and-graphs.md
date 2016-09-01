@@ -1,5 +1,5 @@
 # Chapter1. Two important technologies: Spark and graphs #
-+ 
+
 + Data points and the connections between them can give insights into:
 	- Detecting frauds.
 	- Collecting bio-informatics.
