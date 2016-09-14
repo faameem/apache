@@ -1,4 +1,4 @@
-# BerkeleyX: CS105x Introduction to Apache Spark #
+# Test BerkeleyX: CS105x Introduction to Apache Spark #
 
 ## Welcome to CS 105.1x and Course Objectives/Prequisites ##
 
